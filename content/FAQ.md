@@ -1,0 +1,11 @@
+---
+title: FAQ
+---
+- about this set of guides: why, who, audience, etc
+- contact info
+- about the ris
+	- intro
+	- pure
+	- frontend
+	- backend
+- data usage & visibility
