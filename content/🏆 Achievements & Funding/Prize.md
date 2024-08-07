@@ -1,0 +1,1 @@
+a smaller scale, often personal prize, e.g. 'best paper' award

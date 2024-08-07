@@ -1,3 +1,0 @@
----
-title: 🗨️ Talks & presentations
----

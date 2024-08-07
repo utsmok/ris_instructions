@@ -1,0 +1,2 @@
+Software used to generate data for a publication or something similar. this software is not the main focus or output of the research. Can even be stand-alone.
+If linked or used in research, make sure to link the [[Journal article]] or similar

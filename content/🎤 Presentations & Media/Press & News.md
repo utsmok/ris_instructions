@@ -1,0 +1,1 @@
+newspaper articles, press releases, etc

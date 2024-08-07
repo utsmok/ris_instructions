@@ -1,4 +1,4 @@
-import { pathToRoot } from "../util/path"
+import { pathToRoot, joinSegments } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 import { i18n } from "../i18n"
@@ -8,7 +8,7 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   const baseDir = pathToRoot(fileData.slug!)
   return (
     <h2 class={classNames(displayClass, "page-title")}>
-      <a href={baseDir}>{title}</a>
+      <a href={baseDir}><img src={joinSegments(baseDir, "static/rorlogosmall.png")} alt="ROR logo"/></a>
     </h2>
   )
 }
@@ -21,3 +21,5 @@ PageTitle.css = `
 `
 
 export default (() => PageTitle) satisfies QuartzComponentConstructor
+
+// original title:       <a href={baseDir}>{{title}}</a>

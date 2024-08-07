@@ -1,0 +1,3 @@
+small and large
+the dataset itself does not necessarily need to be attached, but a link to the item should be present always
+also include a link to the related output, e.g. [[Research Software]], [[Journal article]], [[Project]], ...
