@@ -3,7 +3,7 @@
 
 |           Category            |                                                                 Items                                                                  |
 | :---------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
-|      **📚 Publications**      | [[Journal article]], [[Conference proceedings]], [[Book]] / [[Book chapter]], [[Thesis]], [[Other journal contributions]], [[Preprint]] |
+|      **📚 Publications**      | [[Journal article]], [[Conference article]], [[Book]] / [[Book chapter]], [[Thesis]], [[Other journal contributions]], [[Preprint]] |
 |    **💻 Data & Software**     |                                      [[Dataset]], [[Research Software]], [[Supporting Software]]                                      |
 |  **🎓 Academic Activities**   |           [[Positions & Tenure]], [[Visiting or Hosting]], [[Editorial Work]], [[Supervision]], [[Education & Examination]]            |
 | **🏆 Achievements & Funding** |                                  [[Prize]], [[Project]], [[Grant]] ([[Award]] , [[Application]])                                  |

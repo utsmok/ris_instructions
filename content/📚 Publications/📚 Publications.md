@@ -21,6 +21,6 @@ current pages in this category:
 	- [[Journal article]]
 	- [[Other journal contributions]]
 - Conferences
-	- [[Conference proceedings]]
+	- [[Conference article]]
 - [[Thesis]]
 - [[Preprint]]

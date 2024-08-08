@@ -9,10 +9,10 @@ cssclasses:
 > [!WARNING] Development preview - do not use as a a guide!
 > These pages are under development. The content is far from complete. For the actual guides, visit [the UT service portal page for the RIS](https://www.utwente.nl/en/service-portal/research-support/procedures-facilities/research-information-system-ris#welcome-to-the-university-of-twente-research-information-website-providing-a-platform-for-your-publications).
 
-Welcome to the EEMCS TCS research output registration information page.
+# Welcome to the EEMCS CS research output registration information page
 This page is (currently) aimed at researchers working for or with any of the Computer Science research groups at the faculty of Electrical Engineering, Mathematics, and Computer Science at the University of Twente.
 # How to use the site
-The [[Overview of items |overview of items]] is a great starting point. It provides a basic table overview of the various item types, but also some background information. The [[Categorization flowchart |categorization flowchart]] provides an alternative way to determine the category of your item. 
+The [[Overview of items |overview of items]] is an useful starting point if you want to know details on adding items to the RIS. It provides a basic table overview of the various item types and some background information. The [[Categorization flowchart |categorization flowchart]] provides an alternative way to determine the category of your item. 
 If you're looking for guides not directly related to certain item types, the [[Overview of guides|overview of guides]] is the best starting point.
 As you might've noticed, hovering over a link will show a complete preview of the page. This is just one of multiple advanced functionalities available to you. Others include:
 #### 🔗📈 Linked Graph
