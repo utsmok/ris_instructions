@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "26203c6bb85fa9f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "99f7e052b8fc6f7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2df6db1480da70d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 Publications/📚 Publications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3a6eca0cf243f91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a415da8e7b832532",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "734a436f987444b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1583abad9d05fd18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 Publications/Journals/Journal article.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6215b87b996ad94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca0aa726d2b78524",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 Publications/Journals/Journal article.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c81245eccb04681",
+    "type": "split",
+    "children": [
+      {
+        "id": "03ee564a06d1bac7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa4f66cf3d5298be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd906c593dec34f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "571f67bf8a178df8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "46197405b9fe7060",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f3d5d1623e8271a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "298444b6e480ff35",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "📚 Publications/Journals/Journal article.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f96b630aa44fdd6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "📚 Publications/Journals/Journal article.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c694fade2c0507b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5067c57fc3b70728",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "📚 Publications/Journals/Journal article.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ca0aa726d2b78524",
+  "lastOpenFiles": [
+    "Categorization flowchart.md",
+    "index.md",
+    "FAQ.md",
+    "Pasted image 20240808120435.png",
+    "Pasted image 20240808120612.png",
+    "Pasted image 20240808123703.png",
+    "Research Output data @ UT.md",
+    "Overview of guides.md",
+    "Overview of items.md",
+    "📚 Publications/Journals/Journal article.md",
+    "🧑‍🏫 Guides/Import metadata from another source.md",
+    "images/Pasted image 20240808112747.png",
+    "Contact.md",
+    "🔠 Glossary/ORCID.md",
+    "🔠 Glossary/ISSN.md",
+    "🔠 Glossary/DOI.md",
+    "Glossary.md",
+    "🔠 Glossary",
+    "📚 Publications/Non-scientific journal article.md",
+    "🧑‍🏫 Guides/Automated metadata search.md",
+    "images/RoRlogo.png",
+    "🧑‍🏫 Guides/Registering your ORCID.md",
+    "images/QRC.md",
+    "images/QRC_automated_import/img_p2_3.png",
+    "images/QRC_automated_import/img_p1_6.png",
+    "images/QRC_automated_import/img_p1_4.png",
+    "images/QRC_automated_import/img_p0_6.png",
+    "images/QRC_automated_import/img_p0_4.png",
+    "images/QRC_automated_import/QRC-Automated-import.fonts.json",
+    "images/QRC_automated_import",
+    "images/New folder",
+    "images/QRC-Automated-import.fonts.json",
+    "images",
+    "New folder",
+    "QRC-research-from-previous-employment.md",
+    "🧑‍🏫 Guides",
+    "📚 Publications/Thesis.md",
+    "📚 Publications/Preprint.md",
+    "📚 Publications/Journals/Other journal contributions.md",
+    "📚 Publications/Conferences/Conference article.md",
+    "📚 Publications/Books/Book chapter.md",
+    "📚 Publications/Books/Book.md",
+    "💼 Impact & Innovation/Spinoff.md",
+    "Visiting",
+    "🎤 Presentations & Media",
+    "Individual items/📚 Writings/Untitled.canvas"
+  ]
+}

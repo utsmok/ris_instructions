@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>📖 Research Output Registration</title>
+      <link>https://risguide.samuelmok.cc</link>
+      <description>Last 10 notes on 📖 Research Output Registration</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>ORCID</title>
+    <link>https://risguide.samuelmok.cc/%F0%9F%94%A0-Glossary/ORCID</link>
+    <guid>https://risguide.samuelmok.cc/%F0%9F%94%A0-Glossary/ORCID</guid>
+    <description>If you do not have an ORCID, register one here: orcid.org/register. It’s free! from info.orcid.org/researchers/: ORCID, which stands for Open Researcher and Contributor ID, is a free, unique, persistent identifier (PID) for individuals to use as they engage in research, scholarship, and innovation activities.</description>
+    <pubDate>Thu, 08 Aug 2024 09:15:19 GMT</pubDate>
+  </item><item>
+    <title>DOI</title>
+    <link>https://risguide.samuelmok.cc/%F0%9F%94%A0-Glossary/DOI</link>
+    <guid>https://risguide.samuelmok.cc/%F0%9F%94%A0-Glossary/DOI</guid>
+    <description>From www.doi.org: A DOI (Digital Object Identifier) name is a digital identifier of an object, any object — physical, digital, or abstract. DOIs solve a common problem: keeping track of things.</description>
+    <pubDate>Thu, 08 Aug 2024 08:59:00 GMT</pubDate>
+  </item><item>
+    <title>ISSN</title>
+    <link>https://risguide.samuelmok.cc/%F0%9F%94%A0-Glossary/ISSN</link>
+    <guid>https://risguide.samuelmok.cc/%F0%9F%94%A0-Glossary/ISSN</guid>
+    <description>from www.issn.org/: An ISSN is an 8-digit code used to identify newspapers, journals, magazines and periodicals of all kinds and on all media–print and electronic ...</description>
+    <pubDate>Thu, 08 Aug 2024 08:59:00 GMT</pubDate>
+  </item><item>
+    <title>Non-scientific journal article</title>
+    <link>https://risguide.samuelmok.cc/%F0%9F%93%9A-Publications/Non-scientific-journal-article</link>
+    <guid>https://risguide.samuelmok.cc/%F0%9F%93%9A-Publications/Non-scientific-journal-article</guid>
+    <description></description>
+    <pubDate>Thu, 08 Aug 2024 08:57:24 GMT</pubDate>
+  </item><item>
+    <title>Overview of guides</title>
+    <link>https://risguide.samuelmok.cc/Overview-of-guides</link>
+    <guid>https://risguide.samuelmok.cc/Overview-of-guides</guid>
+    <description>todo: make overview of the various available guides Automated metadata search Import metadata from another source Registering your ORCID if you’re looking for manuals on how to ...</description>
+    <pubDate>Wed, 07 Aug 2024 14:41:31 GMT</pubDate>
+  </item><item>
+    <title>Import metadata from another source</title>
+    <link>https://risguide.samuelmok.cc/%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB-Guides/Import-metadata-from-another-source</link>
+    <guid>https://risguide.samuelmok.cc/%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB-Guides/Import-metadata-from-another-source</guid>
+    <description>Besides manually entering data, you can retrieve metadata from various sources. Several can be set up to automatically notify you when a new work has been found that is attributed to you.</description>
+    <pubDate>Wed, 07 Aug 2024 14:35:44 GMT</pubDate>
+  </item><item>
+    <title>Registering your ORCID</title>
+    <link>https://risguide.samuelmok.cc/%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB-Guides/Registering-your-ORCID</link>
+    <guid>https://risguide.samuelmok.cc/%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB-Guides/Registering-your-ORCID</guid>
+    <description>todo: explain how to register orcid and link it to pure and elsewhere also why it’s important.</description>
+    <pubDate>Wed, 07 Aug 2024 14:19:54 GMT</pubDate>
+  </item><item>
+    <title>Automated metadata search</title>
+    <link>https://risguide.samuelmok.cc/%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB-Guides/Automated-metadata-search</link>
+    <guid>https://risguide.samuelmok.cc/%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB-Guides/Automated-metadata-search</guid>
+    <description>TODO: add new, proper images QRC - Automated Search Profiles contains the instructions for setting up automated search profiles. The contents of the QRC have been replicated below.</description>
+    <pubDate>Wed, 07 Aug 2024 14:11:08 GMT</pubDate>
+  </item><item>
+    <title>Research Output data @ UT</title>
+    <link>https://risguide.samuelmok.cc/Research-Output-data-@-UT</link>
+    <guid>https://risguide.samuelmok.cc/Research-Output-data-@-UT</guid>
+    <description> Development preview - do not use as a a guide! These pages are under development. The content is far from complete. For the actual guides, visit the UT service portal page for the RIS.</description>
+    <pubDate>Wed, 07 Aug 2024 13:02:13 GMT</pubDate>
+  </item><item>
+    <title>Categorization flowchart</title>
+    <link>https://risguide.samuelmok.cc/Categorization-flowchart</link>
+    <guid>https://risguide.samuelmok.cc/Categorization-flowchart</guid>
+    <description> Development preview - do not use as a a guide! These pages are under development. The content is far from complete. For the actual guides, visit the UT service portal page for the RIS.</description>
+    <pubDate>Wed, 07 Aug 2024 13:01:53 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
